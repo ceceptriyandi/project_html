@@ -5,12 +5,12 @@
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
      body{
-        background-image: url(https://i2.wp.com/60detiknews.com/wp-content/uploads/2017/10/1441864-background-hitam-keren.jpg?ssl=1);
+        background-image: url(https://i.stack.imgur.com/NEuip.jpg);
           background-repeat: repeat-y;
     }
     @media only screen and (max-width: 600px) {
         body {
-            background-image: url(https://i.stack.imgur.com/NEuip.jpg);
+            background-image: url(https://i2.wp.com/60detiknews.com/wp-content/uploads/2017/10/1441864-background-hitam-keren.jpg?ssl=1);
         }
     }
     h2{
